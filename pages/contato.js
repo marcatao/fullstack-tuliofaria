@@ -4,12 +4,8 @@ import Link from 'next/link';
 const Contato = () =>{
     return (
             <div>
-              <h1>Sobre</h1>
-              <div>
-                  <Link href="/">
-                    <a>Home</a>
-                  </Link>  
-              </div>
+              <h1>Contato</h1>
+
             </div>
             );
 }
